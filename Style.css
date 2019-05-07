@@ -1,0 +1,60 @@
+.heading{
+  text-align: center;
+  padding: 0px;
+}
+.heading1{
+  text-align: left;
+  padding-bottom: 0px;
+  padding: 20px 10px;
+  margin: 0 0 20px 0;
+}
+.form {
+  text-align: center;
+}
+
+#form-search { 
+  width: 300px;
+  line-height: 32px;
+  padding: 20px 10px;
+}
+
+.form #form-search {
+  padding: 0 8px;
+}
+
+
+.buttons {
+  text-align: center;
+  padding-top: 30px;
+  margin-bottom: 300px;
+  
+}
+
+
+/* FOOTER */
+footer  {
+  background: #f2f2f2;
+ border-top: solid 2px #e4e4e4;
+/*   posit_ion: fixed; */
+  bottom: 0;
+  padding-bottom: 0;
+  width: 100%;
+  
+}
+
+footer ul li {
+  display: inline;
+  color: #666666;
+  font-size: 14px;
+  padding: 13px;
+}
+
+footer ul {
+  float: right;
+  padding: 0px;
+}
+
+
+
+    
+   
